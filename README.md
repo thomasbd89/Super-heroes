@@ -35,10 +35,11 @@ Internet
 
 ## Getting Started
 
+-
 To get a local copy up and running follow these simple example steps:
 
-- Go to https://github.com/Alexoid1/Super-heroes and clone the repo using: <br>
-`https://github.com/Alexoid1/Super-heroes.git` in your terminal.
+- Go to https://github.com/thomasbd89/Super-heroes and clone the repo using: <br>
+`https://github.com/thomasbd89/Super-heroes.git` in your terminal.
 
 ### Github Actions
 
@@ -48,26 +49,3 @@ To make sure the linters' checks using Github Actions work properly, you should 
 2. Create the `feature/branch` and push.
 3. Start working on your milestone as usual.
 4. Open a PR from the `feature/branch` when your work is done.
-
-
-## Authors
-
-👤 **Pablo Alexis Zambrano Coral**
-- Github: [@Alexoid1](https://github.com/Alexoid1)
-- Twitter: [@Alexis Zambrano_acz](https://twitter.com/pablo_acz)
-- Linkedin: [linkedin](https://www.linkedin.com/in/alexzambranocoral/)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Alexoid1/Super-heroes/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
